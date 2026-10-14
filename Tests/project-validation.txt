@@ -1,0 +1,1 @@
+PASS: 30 sprite backgrounds; Bonus prefab without BonusBase; scale Y=0.5; elastic ball material; six gameplay layers; MainScene registered for build.

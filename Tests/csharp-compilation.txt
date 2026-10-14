@@ -1,0 +1,3 @@
+PASS: Project scripts compiled by the actual Unity 2022.3.62f3 Editor and Windows player build pipeline on 2026-10-13.
+The build succeeded with zero compilation errors.
+Runtime integration checks also ran: 42 passed in the Windows player and 42 passed in Unity Editor Play Mode.

@@ -1,0 +1,19 @@
+{
+    "passed": true,
+    "findings": [
+        "GameData imports as GameDataScript: True",
+        "GameData asset identifier: c4d0734d3d6e5e8d8c5d791905805ba6 / 11400000",
+        "PlayerScript present: True",
+        "Root Main Camera: UnityEngine.Transform, UnityEngine.Camera, UnityEngine.AudioListener, UnityEngine.AudioSource, UnityEngine.AudioSource",
+        "Root Background: UnityEngine.Transform, UnityEngine.SpriteRenderer",
+        "Root Walls: UnityEngine.Transform",
+        "Root Player: UnityEngine.Transform, UnityEngine.SpriteRenderer, UnityEngine.Rigidbody2D, UnityEngine.CircleCollider2D, PlayerScript",
+        "Root Game UI: UnityEngine.RectTransform, UnityEngine.Canvas, UnityEngine.UI.CanvasScaler, UnityEngine.UI.GraphicRaycaster, GameUiScript",
+        "Root EventSystem: UnityEngine.Transform, UnityEngine.EventSystems.EventSystem, UnityEngine.EventSystems.StandaloneInputModule",
+        "Scene configuration: PASS",
+        "Player.GameData reference resolves: True",
+        "Player Rigidbody2D: True",
+        "MainCamera tag: True",
+        "Game UI reference: True"
+    ]
+}
